@@ -16,6 +16,7 @@ Le site aura quatre type de pages :
     - [Homepage](#homepage)
     - [À propos](#à-propos)
     - [Services](#services)
+    - [Tarifs](#tarifs)
     - [FAQ](#faq)
     - [Contact](#contact)
   - [Frontend](#frontend)
@@ -46,6 +47,10 @@ Le site aura quatre type de pages :
 - PSIO
 - Outils
 - Footer
+
+### Tarifs
+- Grille de tarifs en fonction de la prestation
+- Redirection vers la FAQ ou le formulaire de contact
 
 ### FAQ
 
